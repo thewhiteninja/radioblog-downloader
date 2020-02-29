@@ -1,0 +1,6 @@
+ok BITMAP Images\barOK.bmp
+notfound BITMAP Images\bar404.bmp
+error BITMAP Images\barErr.bmp
+progress BITMAP Images\bar.bmp
+nocheck BITMAP Images\check0.bmp
+check BITMAP Images\check1.bmp
